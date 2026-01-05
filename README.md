@@ -124,6 +124,8 @@ oci iam availability-domain list --compartment-id <YOUR_TENANCY_OCID>
 - US-PHOENIX-1: `PddS:PHX-AD-1`, etc.
 - EU-FRANKFURT-1: `PddS:EU-FRANKFURT-1-AD-1`, etc.
 
+See [Oracle's regions documentation](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm) for all available regions.
+
 Update the `AVAILABILITY_DOMAINS` array in your `config.env` with your region's AD names.
 
 **Get Ubuntu ARM image OCID:**
