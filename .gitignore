@@ -1,0 +1,5 @@
+config.env
+state
+availability.log
+cron.log
+*.log
