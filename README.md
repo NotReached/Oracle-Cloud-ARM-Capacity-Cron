@@ -84,8 +84,8 @@ oci network subnet create \
 ### 4. Clone and Configure
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oracle-free-tier-arm-hunter.git
-cd oracle-free-tier-arm-hunter
+git clone https://github.com/NotReached/Oracle-Cloud-ARM-Capacity-Cron.git
+cd Oracle-Cloud-ARM-Capacity-Cron
 
 # Copy config template
 cp config.env.example config.env
